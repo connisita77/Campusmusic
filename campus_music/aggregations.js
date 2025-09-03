@@ -1,0 +1,1 @@
+// consultas analíticas con framework de agragación
